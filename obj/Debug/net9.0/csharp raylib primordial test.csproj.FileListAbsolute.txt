@@ -1,0 +1,22 @@
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\csharp raylib primordial test.exe
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\csharp raylib primordial test.deps.json
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\csharp raylib primordial test.runtimeconfig.json
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\csharp raylib primordial test.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\csharp raylib primordial test.pdb
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\Raylib-cs.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\runtimes\linux-x64\native\libraylib.so
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\runtimes\osx-arm64\native\libraylib.dylib
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\runtimes\osx-x64\native\libraylib.dylib
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\runtimes\win-x64\native\raylib.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\bin\Debug\net9.0\runtimes\win-x86\native\raylib.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.csproj.AssemblyReference.cache
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.AssemblyInfoInputs.cache
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.AssemblyInfo.cs
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.csproj.CoreCompileInputs.cache
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp r.4D1440F7.Up2Date
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\refint\csharp raylib primordial test.dll
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.pdb
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\csharp raylib primordial test.genruntimeconfig.cache
+c:\Users\curdi\Documents\csharp raylib primordial test\obj\Debug\net9.0\ref\csharp raylib primordial test.dll
